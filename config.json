@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "27def317-0cd7-4660-97f5-8d902ea35aa9",
+            "id": "61a5f8a0-255e-4ec9-a39f-fd1d81742db2",
             "level": 0,
             "email": "ragnardiscussion@gmail.com"
           }
@@ -16,7 +16,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "enjoymyvip"
+          "path": "/ShahinVip"
         }
       }
     }
